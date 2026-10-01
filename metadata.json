@@ -1,0 +1,6 @@
+{
+  "name": "Suivi et Validation des Horaires",
+  "description": "Application de saisie, suivi, report et validation des horaires de travail et des heures supplémentaires pour la gestion RH et paie.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
